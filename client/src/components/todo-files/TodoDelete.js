@@ -33,7 +33,7 @@ class TodoDelete extends React.Component{
     render() {
         return (
             <Modal 
-                title="Delete TOdo" 
+                title="Delete Todo" 
                 content={this.renderContent()}
                 actions={this.renderActions()}
                 onDismiss={() => history.push("/")}
