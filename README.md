@@ -16,4 +16,7 @@ React, Redux, OAuth, JSON Server API, JavaScript, HTML, CSS, Axios
 
 Quick Start
 
-This web application is already deployed and ready for use. You could click the link to the website in the About section.
+1. Run "npm start" on the "client" folder.
+2. Open a new terminal and run "npm start" on the "api" folder
+3. Login via Google on the upper right hand corner so that you will be able to manage your own toods.
+
