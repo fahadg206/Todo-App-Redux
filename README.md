@@ -21,5 +21,5 @@ React, Redux, OAuth, JSON Server API, JavaScript, HTML, CSS, Axios
 
 
 ## How to run app in the browser
-- Login via Google on the upper right hand corner so that you will be able to manage your own toods.
+- Login via Google on the upper right hand corner so that you will be able to manage your own todos.
 
