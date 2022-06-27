@@ -16,10 +16,10 @@
 
 ## Quick Start
 
-1. Run "npm start" on the "client" folder.
+1. Run **npm start** on the **client** folder.
 2. Open a new terminal and run "npm start" on the "api" folder
 
 
 ## How to run app in the browser
-- Login via Google on the upper right hand corner so that you will be able to manage your own todos.
+- Login via Google on the **upper right** hand corner so that you will be able to manage your own todos.
 
