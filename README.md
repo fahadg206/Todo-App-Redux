@@ -17,8 +17,8 @@
 ## Quick Start
 
 1. Download zip file or clone the repository on your local machine, and open it up in your code editor.
-3. Cd into the client folder & Run **npm start** on the **client** folder.
-4. Open a new terminal, cd into the api folder and run **npm start** on the **api** folder
+3. Cd into the client folder & run **npm start** on the **client** folder.
+4. Open a new terminal, cd into the api folder, and run **npm start** on the **api** folder.
 
 
 ## How to run app in the browser
